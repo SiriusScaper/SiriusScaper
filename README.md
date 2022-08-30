@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, tailwind and typescript**
 
-- 👨‍💻 All of my projects are available at [https://ryan-uselmann.netlify.app/](https://ryan-uselmann.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ryan-uselmann.netlify.app/](ryan-uselmann)
 
 - 📫 How to reach me **ruselmann.dev@gmail.com**
 
