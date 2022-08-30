@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ruselmann.dev@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vRBPQ4pqq54Esc6ZvZka-L39fA9fIS8qNzy9U74loOs62kWxG20m-bkRnxXXOZd9ZrAGQjj56WnnEep/pub](https://docs.google.com/document/d/e/2PACX-1vRBPQ4pqq54Esc6ZvZka-L39fA9fIS8qNzy9U74loOs62kWxG20m-bkRnxXXOZd9ZrAGQjj56WnnEep/pub)
+- 📄 Know about my experiences [here is my resume](https://docs.google.com/document/d/e/2PACX-1vRBPQ4pqq54Esc6ZvZka-L39fA9fIS8qNzy9U74loOs62kWxG20m-bkRnxXXOZd9ZrAGQjj56WnnEep/pub)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
