@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-🔭 I’m currently working on a project that I'm sinking 100 hours into<br>🌱 I’m currently learning react, tailwind and typescript<br>👨‍💻 Checkout my portfolio at [https://ryan-uselmann.netlify.app/](ryan-uselmann)<br>📫 How to reach me **ruselmann.dev@gmail.com**<br>📄 Know about my experiences [here is my resume](https://docs.google.com/document/d/e/2PACX-1vRBPQ4pqq54Esc6ZvZka-L39fA9fIS8qNzy9U74loOs62kWxG20m-bkRnxXXOZd9ZrAGQjj56WnnEep/pub)<br>💬 Ask me about my latest project
+🔭 I'm working on my nixos configuration for my desktop and laptop<br>🌱 I’m currently learning react, tailwind and typescript<br>👨‍💻 Checkout my portfolio at [https://ryan-uselmann.netlify.app/](ryan-uselmann)<br>📫 How to reach me **ruselmann.dev@gmail.com**<br>📄 Know about my experiences [here is my resume](https://docs.google.com/document/d/e/2PACX-1vRBPQ4pqq54Esc6ZvZka-L39fA9fIS8qNzy9U74loOs62kWxG20m-bkRnxXXOZd9ZrAGQjj56WnnEep/pub)<br>💬 Ask me about my latest project
 
 ## 🌐 Socials
 
